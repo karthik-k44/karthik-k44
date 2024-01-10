@@ -1,7 +1,5 @@
 <h1 align="center"> 👋 Karthik here </h1>
 
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-k44" alt="karthik-k44" /></a> </p>
