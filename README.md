@@ -1,5 +1,17 @@
 <h1 align="center"> 👋 Karthik here </h1>
-<h2 align="center"> Python Full Stack Developer </h2>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=Hi+there!+I%27m+Welcome+to+my+GitHub+Profile!;I%27m+a+Computer+Science+Student;Intrested+in+Learning+new+Concepts;Constantly+Pushing+my+Limits;" />
+</p>
+
+<div style="text-align: left;">
+
+---
+<!-- image/gif -->
+<div style="border: 2px solid green;">
+<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="300" height="150"/>
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="300" height="150">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
 
