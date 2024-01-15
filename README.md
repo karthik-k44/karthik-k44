@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Karthik here </h1>
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=Hi+there!+I%27m+Welcome+to+my+GitHub+Profile!;I%27m+a+Computer+Science+Student;Intrested+in+Learning+new+Concepts;Constantly+Pushing+my+Limits;" />
+<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=+Welcome+to+my+GitHub+Profile!;I%27m+A+Python+Full+Stack+Developer;Intrested+in+Learning+new+Concepts;Constantly+Pushing+my+Limits;" />
 </p>
 
 <div style="text-align: left;">
