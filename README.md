@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Karthik here </h1>
 <p>
-<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=+Welcome+to+my+GitHub+Profile!;I%27m+A+Python+Full+Stack+Developer;" />
+<img src="https://readme-typing-svg.herokuapp.com/?&font=Orbitron&color=53bbd0&size=20&lines=+Welcome+to+my+GitHub+Profile!;I%27m+A+Frontend+Stack+Developer;" />
 </p>
 
 <div style="text-align: left;">
@@ -17,9 +17,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-k44" alt="karthik-k44" /></a> </p>
 
-- 🌱 I’m currently learning **python django**
+- 🌱 I’m currently learning to be a**Frontend developer**
 
-- 💬 Ask me about **pyhton, css, html**
+- 💬 Ask me about **pyhton, css, html, js**
 
 - 📫 How to reach me **karthikkarunakaran444@gmail.com**
 
