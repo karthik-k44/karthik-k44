@@ -9,10 +9,12 @@
 <!-- image/gif -->
 <div style="border: 2px solid green;">
 <!--<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="280" height="150"/> -->
+<p align="center">
 
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="" width="350" height="200"/>
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="350" height="200"/>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
@@ -30,6 +32,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/__karthiee__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karthiee__" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/karthik-k-7340342aa/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
