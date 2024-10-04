@@ -8,11 +8,11 @@
 ---
 <!-- image/gif -->
 <div style="border: 2px solid green;">
-<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="280" height="150"/>
+<!--<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="280" height="150"/> -->
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="" width="280" height="150"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="" width="350" height="200"/>
 
-<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="280" height="150"/>
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="350" height="200"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
