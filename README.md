@@ -17,9 +17,9 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-k44&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-k44" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-k44" alt="karthik-k44" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-k44" alt="karthik-k44" /></a> </p> -->
 
 - 🌱 I’m currently learning to be a**Frontend developer**
 
@@ -52,4 +52,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthik-k44&theme=dark" height="180em" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<!--<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> -->
