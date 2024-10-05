@@ -28,11 +28,12 @@
 - 📫 How to reach me **karthikkarunakaran444@gmail.com**
 
 - 📄 Know my experiences [https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk](https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk) -->
-<p align="center>
-<h3 >Connect with me:  </h3> <a href="https://www.instagram.com/__karthiee__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karthiee__" height="30" width="40" /></a>
+
+<h3 align="center" >Connect with me: <a href="https://www.instagram.com/__karthiee__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karthiee__" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/karthik-k-7340342aa/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a> </p>
+  </a> </p> </h3> 
+  
 
 
 
