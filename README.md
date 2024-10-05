@@ -21,21 +21,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthik-k44" alt="karthik-k44" /></a> </p> -->
 
-- 🌱 I’m currently learning to be a**Frontend developer**
+<!-- - 🌱 I’m currently learning to be a**Frontend developer**
 
 - 💬 Ask me about **pyhton, css, html, js**
 
 - 📫 How to reach me **karthikkarunakaran444@gmail.com**
 
-- 📄 Know my experiences [https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk](https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk)
+- 📄 Know my experiences [https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk](https://drive.google.com/file/d/151TnhriLDVDqwks0HMlfzZ8NmRtabZ2f/view?usp=drivesdk) -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="https://www.instagram.com/__karthiee__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__karthiee__" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/karthik-k-7340342aa/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
+
 
 <!-- <h3 align="center">Languages and Tools:</h3>
 <center>
