@@ -11,7 +11,7 @@
 <!--<img src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello World" width="280" height="150"/> -->
 <p align="center">
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="" width="350" height="200"/>
+<!--<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="" width="350" height="200"/>-->
 
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="" width="350" height="200"/>
 </p>
