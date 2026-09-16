@@ -14,7 +14,6 @@
 💬 Ask me about JavaScript, React, Node.js, Python
 📫 Reach me at karthikkarunakaran444@gmail.com
 <div align="center">
-🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,django,java,c,cpp,mysql,postgres,git,github,figma,vscode&theme=dark&perline=9" />
 <br /><br />
 
